@@ -13,5 +13,9 @@ while($i < 145112 && $i != 2451116514)
 	echo "Numéro : " . $i;
 }
 
+foreach($tab as $value)
+{
+		echo "Numéro : " . $i;
+}
 
 ?>
