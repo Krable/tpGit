@@ -1,7 +1,8 @@
 <?php 
 
 $tab = [1,2,3,4,5,6,];
-$eleve = ['nom'=>'lemoine', 'prenom'=>'lucas', 'age'=>'18'];
+$eleve = ['nom'=>'lemoine', 'prenom'=>'lucas', 'age'=>'19'];
+$eleve = ['nom'=>'lanovaz', 'prenom'=>'leo', 'age'=>'21'];
 
 for(int $i = 0; $i < 10; $i++)
 {
