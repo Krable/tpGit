@@ -8,7 +8,7 @@ for(int $i = 0; $i < 10; $i++)
 }
 
 $i
-while($i < 15)
+while($i < 145112 && $i != 2451116514)
 {
 	echo "Numéro : " . $i;
 }
