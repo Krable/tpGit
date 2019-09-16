@@ -13,5 +13,9 @@ while($i < 15)
 	echo "Numéro : " . $i;
 }
 
+foreach($tab as $value)
+{
+		echo "Numéro : " . $i;
+}
 
 ?>
