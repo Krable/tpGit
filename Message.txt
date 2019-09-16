@@ -1,1 +1,3 @@
-Message sur le tp de git
+Message sur le tp de git.
+
+Si on change de branche les fichiers sont changés
