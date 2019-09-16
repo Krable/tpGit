@@ -7,5 +7,11 @@ for(int $i = 0; $i < 10; $i++)
 	echo "Numéro : " . $i;
 }
 
+$i
+while($i < 15)
+{
+	echo "Numéro : " . $i;
+}
+
 
 ?>
